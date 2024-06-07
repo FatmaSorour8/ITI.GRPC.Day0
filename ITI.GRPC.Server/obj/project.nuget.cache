@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "S4W4XJhdFsFHs0gfX+bi3eZVuxHsokq8NurFODcUQH/AWGM935uXQurhk6cIqJlDFyAc37NMdPCNei82eaks+A==",
+  "success": true,
+  "projectFilePath": "D:\\My Files\\ITI 9M Intake 44 MNF\\GRPC\\ITI.GRPCDay01\\ITI.GRPC.Server\\ITI.GRPC.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fatma Mohamed\\.nuget\\packages\\google.protobuf\\3.27.0\\google.protobuf.3.27.0.nupkg.sha512",
+    "C:\\Users\\Fatma Mohamed\\.nuget\\packages\\grpc.aspnetcore\\2.63.0\\grpc.aspnetcore.2.63.0.nupkg.sha512",
+    "C:\\Users\\Fatma Mohamed\\.nuget\\packages\\grpc.aspnetcore.server\\2.63.0\\grpc.aspnetcore.server.2.63.0.nupkg.sha512",
+    "C:\\Users\\Fatma Mohamed\\.nuget\\packages\\grpc.aspnetcore.server.clientfactory\\2.63.0\\grpc.aspnetcore.server.clientfactory.2.63.0.nupkg.sha512",
+    "C:\\Users\\Fatma Mohamed\\.nuget\\packages\\grpc.aspnetcore.server.reflection\\2.63.0\\grpc.aspnetcore.server.reflection.2.63.0.nupkg.sha512",
+    "C:\\Users\\Fatma Mohamed\\.nuget\\packages\\grpc.core.api\\2.63.0\\grpc.core.api.2.63.0.nupkg.sha512",
+    "C:\\Users\\Fatma Mohamed\\.nuget\\packages\\grpc.net.client\\2.63.0\\grpc.net.client.2.63.0.nupkg.sha512",
+    "C:\\Users\\Fatma Mohamed\\.nuget\\packages\\grpc.net.clientfactory\\2.63.0\\grpc.net.clientfactory.2.63.0.nupkg.sha512",
+    "C:\\Users\\Fatma Mohamed\\.nuget\\packages\\grpc.net.common\\2.63.0\\grpc.net.common.2.63.0.nupkg.sha512",
+    "C:\\Users\\Fatma Mohamed\\.nuget\\packages\\grpc.reflection\\2.63.0\\grpc.reflection.2.63.0.nupkg.sha512",
+    "C:\\Users\\Fatma Mohamed\\.nuget\\packages\\grpc.tools\\2.64.0\\grpc.tools.2.64.0.nupkg.sha512",
+    "C:\\Users\\Fatma Mohamed\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Fatma Mohamed\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Fatma Mohamed\\.nuget\\packages\\microsoft.extensions.http\\6.0.0\\microsoft.extensions.http.6.0.0.nupkg.sha512",
+    "C:\\Users\\Fatma Mohamed\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\Fatma Mohamed\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Fatma Mohamed\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Fatma Mohamed\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Fatma Mohamed\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\Fatma Mohamed\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

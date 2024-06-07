@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GOwRgxNXzSd0Ngyjh5HlYKlJe7tgZJOw+w8TXr85TLM=",
+  "Source": "ITI.GRPC.Server",
+  "BasePath": "_content/ITI.GRPC.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

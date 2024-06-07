@@ -1,0 +1,45 @@
+syntax = "proto3";
+
+option csharp_namespace = "ITI.GRPC.Server.Protos";
+
+import "google/protobuf/empty.proto";
+
+service InventoryServiceProto {
+    rpc GetProductById (Id) returns (IsExisted);
+    rpc AddProduct (Product) returns (Product);
+    rpc UpdateProduct (Product) returns (Product);
+    rpc GetAll (google.protobuf.Empty) returns (Products);
+    rpc AddBulkProducts (stream Product) returns (ProductsNumber);
+    rpc GetProductReport (google.protobuf.Empty) returns (stream Product);
+}
+
+message Id {
+    int32 id = 1;
+}
+
+message IsExisted {
+    bool exists = 1;
+    Product product = 2;
+}
+
+message Product {
+    int32 id = 1;
+    string name = 2;
+    int32 quantity = 3;
+    double price = 4;
+    ProductCategory category = 5;
+}
+
+message Products {
+    repeated Product products = 1;
+}
+
+message ProductsNumber {
+    int32 number = 1;
+}
+
+enum ProductCategory {
+    PHONES = 0;
+    LAPTOPS = 1;
+    ACCESSORIES = 2;
+}
